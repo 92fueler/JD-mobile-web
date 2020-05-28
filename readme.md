@@ -1,3 +1,3 @@
-#this is the heading<br>
-##this is the second heading
-====
+# JD mobile website 
+
+## Mobile web development && Fluid CSS layout 
